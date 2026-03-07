@@ -1,6 +1,6 @@
 # Renamer Advanced
 <div align="center">
-  <img src="https://www.macfk.com/wp-content/uploads/2024/06/A-Better-Finder-Rename.png" width="300" height="auto;"> 
+  <img src="https://airenamer.app/logo.png" width="300" height="auto;"> 
 </div>  
 <br>
 <div align="center">
